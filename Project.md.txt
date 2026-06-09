@@ -1,0 +1,1054 @@
+# Video Editor Portfolio Website – Azeem Naveed
+
+## Project Overview
+
+This project is a modern portfolio website for **Azeem Naveed**, a video editor based in **Kandy, Sri Lanka**.
+
+The purpose of this website is to present Azeem’s video editing work, services, past projects, client reviews, freelance platform links, and contact details in a professional and visually attractive way.
+
+The website will be created using **Anti Gravity**. The main UI direction can be generated using **Stitch**, but it is not mandatory to rely only on Stitch. Stitch can be used as the main design inspiration, and other design resources, custom frontend improvements, animations, and layouts can be added where needed.
+
+---
+
+## Portfolio Owner Details
+
+**Name:** Azeem Naveed
+**Profession:** Video Editor
+**Location:** Kandy, Sri Lanka
+**Email:** Placeholder
+**Phone:** Placeholder
+**Other Sites:** Upwork / Placeholder
+
+---
+
+## Main Goal
+
+The goal is to create a professional video editor portfolio that helps potential clients quickly understand:
+
+* Who Azeem Naveed is
+* What type of video editing work he does
+* His editing style and creative strengths
+* His past projects and video samples
+* His client reviews and ratings
+* How to contact or hire him
+* Where to find him on freelance platforms such as Upwork
+
+The website should create a strong first impression and make it easy for visitors to view past work, trust his skills, and contact him for video editing projects.
+
+---
+
+## Target Audience
+
+The website is mainly designed for:
+
+* YouTubers
+* Content creators
+* Businesses
+* Social media influencers
+* Marketing agencies
+* Wedding and event clients
+* Freelance clients from platforms like Upwork
+* Brands looking for short-form or long-form video editing
+* Local and international clients looking for remote video editing services
+
+---
+
+## Website Style Direction
+
+The website should feel:
+
+* Modern
+* Cinematic
+* Creative
+* Clean
+* Professional
+* High-end but not overly complicated
+* Suitable for a video editor portfolio
+
+The design should use strong visuals, smooth animations, and clear sections. Since this is for a video editor, the website should feel dynamic, media-focused, and visually engaging.
+
+---
+
+## UI Design Direction
+
+Use **Stitch** to generate the main UI concept if possible.
+
+Suggested Stitch prompt:
+
+> Design a modern cinematic portfolio website for a professional video editor named Azeem Naveed from Kandy, Sri Lanka. The website should include a bold hero section, about section, services section, past video projects with playable video previews, skills/tools section, client reviews, review submission form with star rating, freelance platform links, and contact section. Use a dark premium theme with clean typography, subtle motion, video-focused cards, glowing buttons, and a professional creative layout.
+
+After getting the main UI from Stitch, the design can be improved inside Anti Gravity using custom frontend work and other resources.
+
+---
+
+## Suggested Color Theme
+
+The primary theme should be dark and cinematic.
+
+Recommended colors:
+
+* Background: Deep black / charcoal
+* Primary accent: Electric blue, purple, gold, or red
+* Text: White and light gray
+* Cards: Dark gray with soft borders
+* Buttons: Gradient or solid accent color
+* Review stars: Gold/yellow
+* Video play buttons: Accent color with glow effect
+
+Example style:
+
+* Dark background
+* Gradient highlights
+* Soft glowing buttons
+* Smooth hover effects
+* Video thumbnail cards
+* Clean modern typography
+* Cinematic image/video overlays
+
+---
+
+## Recommended Website Type
+
+A **single-page portfolio website** is recommended because it is simple, modern, and easy for clients to browse quickly.
+
+However, the structure should be clean enough to expand later into separate pages if needed.
+
+Possible future pages:
+
+* Home
+* About
+* Services
+* Portfolio
+* Reviews
+* Contact
+
+---
+
+## Website Sections
+
+Recommended single-page structure:
+
+1. Hero
+2. About
+3. Services
+4. Past Projects / Video Playback
+5. Skills / Tools
+6. Why Work With Me
+7. Client Reviews
+8. Submit a Review
+9. Upwork / External Links
+10. Contact
+11. Footer
+
+---
+
+# 1. Hero Section
+
+The first section should immediately introduce Azeem Naveed and show that he is a professional video editor.
+
+## Hero Content
+
+**Headline:**
+Professional Video Editor for Creators, Brands & Businesses
+
+**Subheadline:**
+Hi, I’m Azeem Naveed, a video editor based in Kandy, Sri Lanka. I create engaging, polished, and visually powerful videos for digital platforms, brands, and creators.
+
+## Hero Buttons
+
+Include clear call-to-action buttons:
+
+* View My Work
+* Watch Past Projects
+* Hire Me on Upwork
+* Contact Me
+
+## Hero Visual Ideas
+
+The hero section can include:
+
+* Background video preview
+* Cinematic gradient overlay
+* Profile image placeholder
+* Editing timeline-style visual
+* Video editing software-inspired layout
+* Play button animation
+* Floating media cards
+* Motion graphics-style elements
+
+## Hero Design Notes
+
+The hero should feel strong, premium, and creative. Visitors should immediately understand that this is a video editor portfolio.
+
+---
+
+# 2. About Section
+
+This section should explain who Azeem is and what he does.
+
+## About Content
+
+Azeem Naveed is a creative video editor from Kandy, Sri Lanka, focused on creating high-quality videos for content creators, businesses, and digital platforms. His work includes editing videos for social media, YouTube, promotional campaigns, reels, events, and brand storytelling.
+
+He focuses on clean cuts, strong pacing, smooth transitions, storytelling, color correction, audio cleanup, and platform-ready video formatting.
+
+## About Highlights
+
+This section should highlight:
+
+* Creativity
+* Attention to detail
+* Storytelling ability
+* Fast and clean editing
+* Understanding of social media content
+* Remote-friendly workflow
+* Ability to work with local and international clients
+* Ability to adapt editing style based on client requirements
+
+---
+
+# 3. Services Section
+
+The website should include a clear services section with modern cards.
+
+## Services to Include
+
+### YouTube Video Editing
+
+Clean cuts, pacing, transitions, subtitles, sound balancing, and engaging storytelling for long-form YouTube content.
+
+### Short-Form Reels / TikTok / Shorts Editing
+
+Fast-paced vertical video editing for Instagram Reels, TikTok, YouTube Shorts, and other social media platforms.
+
+### Social Media Ads
+
+Professional video ads designed for social media campaigns, product promotions, and brand awareness.
+
+### Promotional Videos
+
+Clean and polished promotional edits for businesses, brands, products, services, and events.
+
+### Event Highlight Videos
+
+Cinematic highlight edits for weddings, parties, events, business functions, and special occasions.
+
+### Corporate Videos
+
+Professional edits for companies, interviews, training videos, internal content, and business presentations.
+
+### Color Correction
+
+Improving video colors, lighting, contrast, and visual consistency.
+
+### Audio Cleanup
+
+Improving sound quality, balancing volume levels, reducing noise, and making the final video cleaner.
+
+### Motion Graphics
+
+Basic animations, text effects, lower thirds, intros, outros, and branded visual elements.
+
+### Thumbnail / Basic Graphic Support
+
+Simple thumbnail or visual support for YouTube videos and social media content.
+
+---
+
+# 4. Past Projects / Video Playback Section
+
+The website should include a dedicated **Past Projects** section where visitors can view or play Azeem’s previous video editing work.
+
+This will be one of the most important sections of the portfolio.
+
+## Purpose
+
+This section should help visitors see the quality, style, and range of Azeem’s video editing work.
+
+## Features
+
+The Past Projects section should allow users to:
+
+* View project thumbnails
+* Click and play videos
+* Open video previews in a modal or embedded player
+* See project category and short description
+* Visit external video links if the video is hosted on YouTube, Vimeo, Google Drive, or another platform
+* Filter projects by category if needed
+
+## Suggested Layout
+
+Use a grid layout with project cards.
+
+Each card should include:
+
+* Video thumbnail
+* Play button overlay
+* Project title
+* Project category
+* Short description
+* Watch Project button
+* Optional external link button
+
+## Recommended Categories
+
+* YouTube Videos
+* Reels / Shorts
+* Promotional Videos
+* Event Highlights
+* Wedding Videos
+* Corporate Videos
+* Cinematic Edits
+* Social Media Ads
+* Motion Graphics
+
+## Example Past Project Cards
+
+### Project 1
+
+**Project Title:** Cinematic Travel Vlog Edit
+**Category:** YouTube Editing
+**Description:** A fast-paced travel video edit with smooth transitions, color correction, background music, and cinematic pacing.
+**Button:** Watch Project
+
+### Project 2
+
+**Project Title:** Social Media Reel Package
+**Category:** Reels / Shorts
+**Description:** A vertical short-form video package edited for Instagram Reels, TikTok, and YouTube Shorts.
+**Button:** Watch Project
+
+### Project 3
+
+**Project Title:** Business Promotional Video
+**Category:** Promotional Video
+**Description:** A clean business promo edit with branded text, transitions, music, and professional pacing.
+**Button:** Watch Project
+
+### Project 4
+
+**Project Title:** Event Highlight Video
+**Category:** Event Video
+**Description:** A short cinematic highlight edit created from event footage with music, transitions, and emotional storytelling.
+**Button:** Watch Project
+
+### Project 5
+
+**Project Title:** Product Advertisement Edit
+**Category:** Social Media Ad
+**Description:** A product-focused video ad edited for online marketing and social media campaigns.
+**Button:** Watch Project
+
+### Project 6
+
+**Project Title:** Cinematic Montage Edit
+**Category:** Cinematic Edit
+**Description:** A creative montage edit with color grading, music sync, and smooth visual flow.
+**Button:** Watch Project
+
+## Video Playback Recommendation
+
+When a visitor clicks a project, the video should open in a clean popup/modal player instead of redirecting immediately.
+
+This keeps visitors on the portfolio website and creates a better user experience.
+
+## Supported Video Sources
+
+The project cards should support:
+
+* Local video files
+* YouTube embeds
+* Vimeo embeds
+* Google Drive links
+* External video links
+
+## Project Data Structure Example
+
+```json
+{
+  "title": "Project Title",
+  "category": "Project Category",
+  "description": "Short project description",
+  "thumbnail": "thumbnail image path",
+  "videoUrl": "video link or local video path",
+  "platform": "YouTube / Vimeo / Local / Google Drive"
+}
+```
+
+---
+
+# 5. Skills / Tools Section
+
+This section should show the editing tools and creative skills Azeem uses.
+
+## Suggested Editing Tools
+
+* Adobe Premiere Pro
+* Adobe After Effects
+* DaVinci Resolve
+* CapCut
+* Adobe Photoshop
+* Canva
+* Adobe Audition or audio cleanup tools
+
+## Suggested Skills
+
+* Video editing
+* Storytelling
+* Color grading
+* Sound design
+* Subtitles and captions
+* Motion graphics
+* Social media formatting
+* Fast-paced editing
+* Cinematic editing
+* YouTube editing
+* Reels and short-form editing
+* Promotional video editing
+* Audio cleanup
+* Brand-focused editing
+
+## UI Suggestion
+
+Display tools and skills as:
+
+* Icon cards
+* Skill badges
+* Animated tags
+* Grid layout
+* Progress-style bars if needed
+
+---
+
+# 6. Why Work With Me Section
+
+This section should build trust and explain why clients should choose Azeem.
+
+## Suggested Points
+
+* Creative and detail-focused editing
+* Fast communication
+* Clean and professional delivery
+* Experience with social media content
+* Remote-friendly workflow
+* Flexible editing style based on client needs
+* Focused on client satisfaction
+* Understands pacing, storytelling, and platform requirements
+* Can edit both short-form and long-form content
+* Can work with creators, brands, and businesses
+
+## Example Content
+
+Choosing the right editor can make a huge difference in how your content feels and performs. Azeem focuses on creating videos that are clean, engaging, and matched to the client’s goals. Whether it is a YouTube video, social media reel, promo video, or event highlight, the editing style is adjusted to fit the purpose of the project.
+
+---
+
+# 7. Client Reviews Section
+
+The website should include a **Client Reviews** section where previous client feedback can be displayed.
+
+This section helps build trust with new visitors.
+
+## Review Display Features
+
+Each review card should show:
+
+* Client name
+* Star rating
+* Review comment
+* Project type, if available
+* Date, if available
+
+## Example Review Cards
+
+### Review 1
+
+**Client Name:** Placeholder
+**Rating:** ★★★★★
+**Project Type:** YouTube Video Editing
+**Comment:** Azeem delivered a clean and professional edit with great pacing and smooth transitions. Communication was easy, and the final video matched the project brief perfectly.
+
+### Review 2
+
+**Client Name:** Placeholder
+**Rating:** ★★★★★
+**Project Type:** Social Media Reels
+**Comment:** The video quality and pacing were excellent. The final reels looked professional and were ready to post.
+
+### Review 3
+
+**Client Name:** Placeholder
+**Rating:** ★★★★☆
+**Project Type:** Promotional Video
+**Comment:** Great work overall. The edit was clean, the branding was well handled, and the delivery was smooth.
+
+## Review Summary
+
+The section should include a simple review summary.
+
+Example:
+
+**Average Rating:** 4.9 / 5
+**Total Reviews:** 24
+**Client Satisfaction:** Excellent
+
+These values can be placeholders until real reviews are added.
+
+---
+
+# 8. Submit a Review Section
+
+The website should include a place where users or clients can submit reviews.
+
+## Review Form Fields
+
+The review form should include:
+
+* Name
+* Email
+* Project Type
+* Star Rating
+* Comment / Review
+* Submit Review button
+
+## Star Rating Feature
+
+The star rating should be interactive.
+
+Users should be able to click:
+
+* 1 star
+* 2 stars
+* 3 stars
+* 4 stars
+* 5 stars
+
+The selected rating should be visually highlighted.
+
+## Review Submission Message
+
+After submitting a review, show a message such as:
+
+> Thank you for your review. Your feedback has been submitted and will appear after approval.
+
+## Review Moderation Requirement
+
+Reviews should not appear publicly immediately unless approved.
+
+Recommended approach:
+
+* Store submitted reviews first
+* Mark them as `pending`
+* Admin can approve or reject reviews
+* Only approved reviews should display on the website
+
+This helps prevent spam, fake comments, or inappropriate content from appearing on the portfolio.
+
+## Review Data Structure Example
+
+```json
+{
+  "name": "Client Name",
+  "email": "Client Email",
+  "projectType": "Project Type",
+  "rating": 5,
+  "comment": "Client review comment",
+  "status": "pending",
+  "createdAt": "Date"
+}
+```
+
+Only reviews with the following status should be shown publicly:
+
+```json
+{
+  "status": "approved"
+}
+```
+
+## UI Ideas for Reviews
+
+For the reviews section:
+
+* Use testimonial-style cards
+* Show star icons clearly
+* Add average rating summary
+* Add review count
+* Add client/project type label
+* Add clean review submission form
+* Use a success message after submitting a review
+* Keep the form simple and easy to use
+
+---
+
+# 9. Upwork / External Links Section
+
+The website should include a section for freelance platforms and other external profiles.
+
+## Main Platform
+
+* Upwork: Placeholder link
+
+## Optional Future Links
+
+* Fiverr
+* Behance
+* YouTube
+* Vimeo
+* Instagram
+* LinkedIn
+* TikTok
+* Facebook
+
+## Button Text Examples
+
+* Hire Me on Upwork
+* View My Freelance Profile
+* Let’s Work Together
+* Visit My Upwork Profile
+* View More Work
+
+## Section Content Example
+
+You can also find Azeem on freelance platforms. For project inquiries, collaborations, or video editing work, use the links below or contact directly through the form.
+
+---
+
+# 10. Contact Section
+
+The contact section should be simple and clear.
+
+## Contact Form Fields
+
+The contact form should include:
+
+* Name
+* Email
+* Phone Number
+* Project Type
+* Budget Range
+* Message
+* Submit Button
+
+## Display Contact Details
+
+Also display:
+
+**Email:** Placeholder
+**Phone:** Placeholder
+**Location:** Kandy, Sri Lanka
+
+## Contact Call-to-Action
+
+Example text:
+
+Ready to create your next video? Let’s discuss your project.
+
+## Project Type Dropdown Options
+
+Suggested options:
+
+* YouTube Video
+* Reel / Short Video
+* Promotional Video
+* Event Video
+* Wedding Video
+* Corporate Video
+* Social Media Ad
+* Other
+
+## Budget Range Dropdown Options
+
+Suggested options:
+
+* Under $50
+* $50 - $100
+* $100 - $250
+* $250 - $500
+* $500+
+* Not sure yet
+
+---
+
+# 11. Footer Section
+
+Footer should include:
+
+**Azeem Naveed**
+Video Editor based in Kandy, Sri Lanka
+
+## Footer Links
+
+* Home
+* About
+* Services
+* Past Projects
+* Reviews
+* Contact
+* Upwork
+
+## Footer Text
+
+© 2026 Azeem Naveed. All rights reserved.
+
+---
+
+# Design Features to Include
+
+The website should include:
+
+* Smooth scrolling
+* Dark cinematic UI
+* Animated hero section
+* Video thumbnail hover effects
+* Modern service cards
+* Portfolio filter buttons
+* Video modal popup
+* Client review cards
+* Interactive star rating form
+* Contact form
+* Upwork button
+* Responsive design for mobile, tablet, and desktop
+* Clean navigation bar
+* Strong call-to-action buttons
+
+---
+
+# Animation Ideas
+
+Use subtle animations only. Avoid making the site too heavy.
+
+Possible animations:
+
+* Fade-in sections
+* Smooth card hover
+* Button glow on hover
+* Portfolio thumbnails slightly zoom on hover
+* Hero text reveal animation
+* Floating gradient background shapes
+* Star rating hover effect
+* Video play button pulse effect
+* Smooth modal open/close animation
+
+---
+
+# Content Placeholders
+
+Use placeholders for anything not finalized yet.
+
+Placeholders needed:
+
+* Email address
+* Phone number
+* Upwork profile link
+* Portfolio video links
+* Client testimonials
+* Profile image
+* Logo if needed
+* Video thumbnails
+* Social media links
+* Review data
+
+---
+
+# Technical Notes
+
+The project will be created using **Anti Gravity**.
+
+## UI Workflow
+
+1. Generate the main UI idea using Stitch.
+2. Use that design as the base.
+3. Improve layout, responsiveness, animations, and content manually.
+4. Add placeholder portfolio videos and contact information.
+5. Add past project video playback section.
+6. Add client reviews display section.
+7. Add review submission form with star rating.
+8. Replace placeholders with real content later.
+
+---
+
+# Suggested File Structure
+
+```text
+video-editor-portfolio/
+│
+├── index.html
+├── README.md
+├── PROJECT.md
+│
+├── assets/
+│   ├── images/
+│   │   ├── profile-placeholder.jpg
+│   │   ├── project-thumbnail-1.jpg
+│   │   ├── project-thumbnail-2.jpg
+│   │   └── project-thumbnail-3.jpg
+│   │
+│   ├── videos/
+│   │   ├── project-video-1.mp4
+│   │   ├── project-video-2.mp4
+│   │   └── project-video-3.mp4
+│   │
+│   └── icons/
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── data/
+│   ├── projects.json
+│   └── reviews.json
+│
+└── components/
+    ├── hero.html
+    ├── about.html
+    ├── services.html
+    ├── past-projects.html
+    ├── skills.html
+    ├── reviews.html
+    ├── review-form.html
+    └── contact.html
+```
+
+If using a modern framework, the structure can be adjusted.
+
+---
+
+# Suggested Tech Stack
+
+## Basic Version
+
+* HTML
+* CSS
+* JavaScript
+
+## Modern Version
+
+* React
+* Tailwind CSS
+* Framer Motion
+* Vite
+
+## Recommended Option
+
+Use **React + Tailwind CSS** if Anti Gravity supports it well, because it will make the UI cleaner, more responsive, and easier to maintain.
+
+---
+
+# Suggested Data Structure for Projects
+
+```json
+[
+  {
+    "id": 1,
+    "title": "Cinematic Travel Vlog Edit",
+    "category": "YouTube Editing",
+    "description": "A fast-paced travel video edit with smooth transitions, color correction, background music, and cinematic pacing.",
+    "thumbnail": "assets/images/project-thumbnail-1.jpg",
+    "videoUrl": "assets/videos/project-video-1.mp4",
+    "platform": "Local",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Social Media Reel Package",
+    "category": "Reels / Shorts",
+    "description": "A vertical short-form video package edited for Instagram Reels, TikTok, and YouTube Shorts.",
+    "thumbnail": "assets/images/project-thumbnail-2.jpg",
+    "videoUrl": "https://youtube.com/placeholder",
+    "platform": "YouTube",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Business Promotional Video",
+    "category": "Promotional Video",
+    "description": "A clean business promo edit with branded text, transitions, music, and professional pacing.",
+    "thumbnail": "assets/images/project-thumbnail-3.jpg",
+    "videoUrl": "https://vimeo.com/placeholder",
+    "platform": "Vimeo",
+    "featured": false
+  }
+]
+```
+
+---
+
+# Suggested Data Structure for Reviews
+
+```json
+[
+  {
+    "id": 1,
+    "name": "Client Name",
+    "email": "client@example.com",
+    "projectType": "YouTube Video Editing",
+    "rating": 5,
+    "comment": "Azeem delivered a clean and professional edit with great pacing and smooth transitions.",
+    "status": "approved",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "id": 2,
+    "name": "Client Name",
+    "email": "client@example.com",
+    "projectType": "Social Media Reels",
+    "rating": 5,
+    "comment": "The video quality and pacing were excellent. The final reels looked professional and were ready to post.",
+    "status": "approved",
+    "createdAt": "2026-01-02"
+  },
+  {
+    "id": 3,
+    "name": "Client Name",
+    "email": "client@example.com",
+    "projectType": "Promotional Video",
+    "rating": 4,
+    "comment": "Great work overall. The edit was clean, the branding was well handled, and the delivery was smooth.",
+    "status": "pending",
+    "createdAt": "2026-01-03"
+  }
+]
+```
+
+Only reviews with `"status": "approved"` should display on the public website.
+
+---
+
+# Admin / Review Moderation Idea
+
+If the project includes an admin area later, add a simple review moderation feature.
+
+## Admin Review Actions
+
+The admin should be able to:
+
+* View submitted reviews
+* Approve reviews
+* Reject reviews
+* Delete spam reviews
+* Edit project categories
+* Add or remove past projects
+* Update contact details
+* Update Upwork and social media links
+
+This can be added later if the first version is only a frontend portfolio.
+
+---
+
+# Responsive Design Requirements
+
+The website must work properly on:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile phones
+
+## Mobile Requirements
+
+On mobile:
+
+* Navigation should collapse into a menu
+* Project cards should stack vertically or use a 1-column layout
+* Contact form should be easy to fill
+* Video modal should fit the screen
+* Review form should be easy to use
+* Text should remain readable
+* Buttons should be large enough to tap
+
+---
+
+# Accessibility Notes
+
+The website should include:
+
+* Clear text contrast
+* Readable fonts
+* Alt text for images
+* Proper labels for form fields
+* Keyboard-friendly buttons
+* Clear focus styles
+* Accessible star rating labels
+* Video controls where possible
+
+---
+
+# SEO Notes
+
+Include basic SEO setup.
+
+## Suggested Meta Title
+
+Azeem Naveed | Video Editor Portfolio
+
+## Suggested Meta Description
+
+Professional video editor based in Kandy, Sri Lanka. View past projects, video edits, services, client reviews, and contact Azeem Naveed for video editing work.
+
+## Suggested Keywords
+
+* Azeem Naveed
+* Video Editor Sri Lanka
+* Video Editor Kandy
+* YouTube Video Editor
+* Reels Editor
+* Freelance Video Editor
+* Upwork Video Editor
+* Promotional Video Editing
+* Social Media Video Editing
+
+---
+
+# Performance Notes
+
+Since this is a video-focused website, performance is important.
+
+## Recommendations
+
+* Do not autoplay too many videos
+* Use thumbnails instead of loading all videos directly
+* Lazy-load video content
+* Compress images
+* Use optimized video files
+* Use external hosting for large videos if needed
+* Keep animations smooth but lightweight
+* Avoid heavy background videos on mobile
+
+---
+
+# Final Expected Output
+
+The final portfolio website should be:
+
+* Fully responsive
+* Visually attractive
+* Easy to navigate
+* Professional enough for freelance clients
+* Focused on video editing work
+* Able to show past video projects
+* Able to play project videos
+* Able to display client reviews
+* Able to collect new reviews with star ratings and comments
+* Connected to Upwork or other external profiles
+* Ready to update with real portfolio videos later
+
+---
+
+# Final Development Notes
+
+Keep the website simple but premium.
+
+Since this is a video editor portfolio, visuals are very important. The homepage should immediately show creativity and editing skill. The visitor should be able to understand Azeem’s services, watch past work, check reviews, and contact him within a few seconds.
+
+The main focus should be:
+
+* Strong first impression
+* Clear past project showcase
+* Playable video previews
+* Client trust through reviews
+* Easy review submission
+* Easy contact options
+* Professional freelance presence

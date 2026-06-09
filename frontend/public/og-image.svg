@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Azeem Naveed  Professional Video Editor">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="40%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#1a2744"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4b8eff"/>
+      <stop offset="100%" stop-color="#adc6ff"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="20%" cy="30%" r="40%">
+      <stop offset="0%" stop-color="#4b8eff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#4b8eff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="80%" cy="70%" r="35%">
+      <stop offset="0%" stop-color="#5d03ca" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#5d03ca" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow1)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="16" fill="none" stroke="#414755" stroke-width="2" opacity="0.5"/>
+  <rect x="60" y="60" width="6" height="510" fill="url(#accent)"/>
+  <text x="120" y="220" font-family="Arial, sans-serif" font-size="88" font-weight="800" fill="#e5e2e1" letter-spacing="-2">AZEEM NAVEED</text>
+  <text x="120" y="290" font-family="Arial, sans-serif" font-size="36" font-weight="600" fill="url(#accent)">Professional Video Editor</text>
+  <text x="120" y="360" font-family="Arial, sans-serif" font-size="24" fill="#c1c6d7">YouTube � Reels � Promotional � Cinematic</text>
+  <text x="120" y="420" font-family="Arial, sans-serif" font-size="20" fill="#8b90a0">Kandy, Sri Lanka � Available Worldwide</text>
+  <circle cx="1020" cy="315" r="80" fill="#162035" stroke="url(#accent)" stroke-width="3"/>
+  <polygon points="1005,285 1005,345 1055,315" fill="url(#accent)"/>
+  <text x="120" y="530" font-family="Arial, sans-serif" font-size="18" fill="#6ee7b7">azeemnaveed.com</text>
+</svg>
